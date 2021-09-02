@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alerodriguezz/watson_translator.git"
+    "url": "https://github.com/alerodriguezz/my_express_app_lab.git"
   },
   "author": "Alex Rodriguez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alerodriguezz/watson_translator/issues"
+    "url": "https://github.com/alerodriguezz/my_express_app_lab/issues"
   },
-  "homepage": "https://github.com/alerodriguezz/watson_translator#readme",
+  "homepage": "https://github.com/alerodriguezz/my_express_app_lab#readme",
   "dependencies": {
     "express": "^4.17.1"
   },
